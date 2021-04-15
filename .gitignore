@@ -1,4 +1,12 @@
 build/
-python/bin/
+ripserplusplus/build/
 vscode/
-python/bin
+cmake-build-debug/
+ripserplusplus/cmake-build-debug/
+dist/
+.vscode/
+*.egg-info
+.vs/
+*.pyc
+out/
+CMakeSettings.json
