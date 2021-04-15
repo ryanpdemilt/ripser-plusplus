@@ -1,5 +1,4 @@
 build/
-ripserplusplus/build/
 vscode/
 cmake-build-debug/
 ripserplusplus/cmake-build-debug/
